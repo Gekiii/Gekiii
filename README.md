@@ -1,5 +1,6 @@
 # Gekiii
 Hi there! 👋 
+
 I'm Giacomo, a Master's student at the University of Bergamo, with exchange experience at Peking University 🇨🇳.
 
 - I'm passionate about financial markets, market microstructure, and systematic trading.
